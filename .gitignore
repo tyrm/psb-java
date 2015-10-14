@@ -7,5 +7,9 @@ release.properties
 dependency-reduced-pom.xml
 buildNumber.properties
 
+# application config
+twitter4j.properties
+
+
 # IntelliJ IDEA IDE
 .idea
